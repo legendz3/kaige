@@ -1,4 +1,5 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url("https://fonts.googleapis.com/css?family=Parisienne");
 @import url("font-awesome.min.css");
 
 /*
@@ -2278,7 +2279,8 @@
 		}
 
 			.main.style1 h2 {
-				font-size: 4.25em;
+				font-family: 'Parisienne', cursive;
+				font-size: 8.25em;
 				line-height: 1em;
 				letter-spacing: -4px;
 			}
