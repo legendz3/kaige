@@ -3326,6 +3326,9 @@
 				font-size: 1.5em;
 				letter-spacing: -1px;
 			}
+			#intro {
+				min-height: 100%
+			}
 
 		/* Box */
 
